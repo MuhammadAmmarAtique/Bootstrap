@@ -1,1 +1,1 @@
-Learning Bootstrap 5 from web dev simplified.
+Learning Bootstrap 5 from ws cube tech. (Mentor: Pradeep)
